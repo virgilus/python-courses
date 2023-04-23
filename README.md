@@ -1,9 +1,9 @@
-# Cours de python
+# Python course
 
-Bienvenue dans ce cours de Python.
+Welcome to this Python course.
 
-Ce "repository" contient un ensemble de fichiers .ipynb (lisibles avec Jupyter Notebook / Lab ou bien directement via github), ainsi que des images et des fichiers annexes, destiné à l'apprentissage du langage Python pour des personnes n'ayant jamais fait de programmation. N'hésitez pas à me suggérer des améliorations ainsi qu'à corriger les éventuelles erreurs et typos qui s'y trouveraient. Ce travail est sous licence [Creative Commons BY SA NC](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), ce qui signifie que vous pouvez le réutiliser, le modifier et le partager à votre guise, cependant vous avez l'obligation de mentionner l'auteur, de repartager votre travail sous cette même licence et de ne pas en faire un usage commercial.
+This repository contains a set of .ipynb files (readable with Jupyter Notebook / Lab or directly via github), as well as images and other files, intended to teach the Python language to people who have never done programming before. Feel free to suggest improvements and to correct any errors or typos that might be found. This work is licensed under the [Creative Commons BY SA NC](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license, which means that you can reuse, modify and share it as you wish, but you must credit the author, share your work under this same license and not use it for commercial purposes.
 
-Toutes les images incluses dans ce cours sont sous une licence permettant la reproduction sans autorisation préalable. Sauf mention contraire celles-ci sont toutes issues de Wikipédia (ou wikimédia).
+All images included in this course are licensed for reproduction without prior permission. Unless otherwise stated, they are all from Wikipedia (or wikimedia).
 
-## Niveau 1 - Introduction aux fondements de la programmation et aux bases du langage Python
+## Level 1 - Introduction to the fundamentals of programming and the basics of the Python language
